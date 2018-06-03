@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+            All we have to decide is what to do with the <strong>time</strong> that is given us.&nbsp;
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
