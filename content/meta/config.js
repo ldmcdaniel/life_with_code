@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Life in code - A scripted journey", // <title>
   shortSiteTitle: "Life in code", // <title> ending for posts and pages
   siteDescription: "Rubber ducking is next to godliness",
-  siteUrl: "https://github.com",
+  siteUrl: "https://github.com/ldmcdaniel",
   pathPrefix: "/life_with_code",
   siteImage: "preview.jpg",
   siteLanguage: "en",
