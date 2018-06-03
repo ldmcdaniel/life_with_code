@@ -1,0 +1,128 @@
+{
+  "assetsByChunkName": {
+    "path---category-testimonies": [
+      "path---category-testimonies-8bae684c828f30e5e04c.js",
+      "path---category-testimonies-8bae684c828f30e5e04c.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-77eb65875715b6bb483a.js",
+      "component---src-pages-index-js-77eb65875715b6bb483a.js.map"
+    ],
+    "path---": [
+      "path----075ba3c00402da87f4be.js",
+      "path----075ba3c00402da87f4be.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-15a4e63a16e36b4cc6ac.js",
+      "component---src-pages-contact-js-15a4e63a16e36b4cc6ac.js.map"
+    ],
+    "component---src-templates-category-template-js": [
+      "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
+      "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
+    ],
+    "path---terms": [
+      "path---terms-6082a5994d79c1b821af.js",
+      "path---terms-6082a5994d79c1b821af.js.map"
+    ],
+    "path---projects": [
+      "path---projects-0535e346936e31623123.js",
+      "path---projects-0535e346936e31623123.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-99fbb2d1eef200a56369.js",
+      "component---src-layouts-index-js-99fbb2d1eef200a56369.js.map"
+    ],
+    "path---category": [
+      "path---category-ffbd3dc3d47f2dca4a40.js",
+      "path---category-ffbd3dc3d47f2dca4a40.js.map"
+    ],
+    "component---src-pages-category-js": [
+      "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
+      "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
+    ],
+    "path---dual-javascript-in-django": [
+      "path---dual-javascript-in-django-cdd87ead34513fc8b050.js",
+      "path---dual-javascript-in-django-cdd87ead34513fc8b050.js.map"
+    ],
+    "path---index": [
+      "path---index-61af3314d7ee5dcf27e6.js",
+      "path---index-61af3314d7ee5dcf27e6.js.map"
+    ],
+    "component---src-pages-search-js": [
+      "component---src-pages-search-js-5f9f0523a834c6d3c767.js",
+      "component---src-pages-search-js-5f9f0523a834c6d3c767.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cf325d2e9bf981eec2f6.js",
+      "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
+    ],
+    "path---privacy": [
+      "path---privacy-a861e88d0584c1c73d20.js",
+      "path---privacy-a861e88d0584c1c73d20.js.map"
+    ],
+    "commons": [
+      "commons-471dfd546a1b04ec0eda.js",
+      "build-js-styles.css",
+      "commons-471dfd546a1b04ec0eda.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---success": [
+      "path---success-a544ee45d02cfee4d7b5.js",
+      "path---success-a544ee45d02cfee4d7b5.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-86b431705d36aec8fac9.js",
+      "path---contact-86b431705d36aec8fac9.js.map"
+    ],
+    "path---draft-post": [
+      "path---draft-post-ef99302b2058d179f403.js",
+      "path---draft-post-ef99302b2058d179f403.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-97fd3a07e5bc97df5530.js",
+      "component---src-templates-post-template-js-97fd3a07e5bc97df5530.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-4869ca099943b7ddf47e.js",
+      "build-js-styles.css",
+      "app-4869ca099943b7ddf47e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---front-end-dev": [
+      "path---front-end-dev-221b37c5d7389a20792e.js",
+      "path---front-end-dev-221b37c5d7389a20792e.js.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-277489605b32655c14af.js",
+      "component---src-templates-page-template-js-277489605b32655c14af.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---search": [
+      "path---search-10979b15fe0b4f6996f3.js",
+      "path---search-10979b15fe0b4f6996f3.js.map"
+    ],
+    "path---category-sayings": [
+      "path---category-sayings-a329785f3c7be57386b4.js",
+      "path---category-sayings-a329785f3c7be57386b4.js.map"
+    ],
+    "path---about": [
+      "path---about-341f78cb775853a132df.js",
+      "path---about-341f78cb775853a132df.js.map"
+    ]
+  }
+}

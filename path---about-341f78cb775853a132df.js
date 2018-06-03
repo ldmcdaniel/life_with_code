@@ -1,0 +1,2 @@
+webpackJsonp([0xf927f8900006],{709:function(e,t){e.exports={data:{page:{id:"/Users/Lucas/dev/life_with_code/content/pages/1--about/index.md absPath of file >>> MarkdownRemark",html:'<p>I am a <a href="https://github.com/ldmcdaniel/">software engineer</a>, and here is my experience and expertise.</p>\n<h3>CV:</h3>\n<ul>\n<li>Emma - 2017 to the present</li>\n</ul>',frontmatter:{title:"About"}},site:{siteMetadata:{facebook:{appId:"171727420179188"}}}},pathContext:{slug:"/about/"}}}});
+//# sourceMappingURL=path---about-341f78cb775853a132df.js.map

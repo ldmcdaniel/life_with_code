@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{722:function(e,s){e.exports={data:{page:{id:"/Users/Lucas/dev/life_with_code/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. <br />\nI will answer your message as soon as possible.</p>",frontmatter:{title:"Success"}},site:{siteMetadata:{facebook:{appId:"171727420179188"}}}},pathContext:{slug:"/success/"}}}});
+//# sourceMappingURL=path---success-a544ee45d02cfee4d7b5.js.map
