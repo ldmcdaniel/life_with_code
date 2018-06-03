@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: "Life in code - A scripted journey", // <title>
   shortSiteTitle: "Life in code", // <title> ending for posts and pages
   siteDescription: "Rubber ducking is next to godliness",
-  siteUrl: "https://life-in-code.lucasmcdaniel.com",
-  pathPrefix: "",
+  siteUrl: "https://github.com",
+  pathPrefix: "/life_in_code",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author

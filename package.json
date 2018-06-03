@@ -61,6 +61,7 @@
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
     "stylelint": "stylelint src/**/*.js",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "generate-app-icons": "sh ./scripts/generate-app-icons.sh"
   },
   "devDependencies": {
@@ -80,6 +81,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.8.2",
     "gatsby-plugin-svgr": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "json-loader": "^0.5.7",
     "postcss": "^6.0.22",
     "postcss-cli": "^5.0.0",
